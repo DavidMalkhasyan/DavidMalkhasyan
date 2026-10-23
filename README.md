@@ -104,7 +104,7 @@ Studied C, computer architecture, x86 assembly fundamentals, JavaScript, TypeScr
 ## GitHub activity
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DavidMalkhasyan&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=00B8D9" alt="GitHub statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DavidMalkhasyan&show_icons=true&hide_rank=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=00B8D9" alt="GitHub statistics" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidMalkhasyan&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" alt="Most used languages in public GitHub repositories" />
 </div>
 
